@@ -1,0 +1,70 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    height: 100vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    background: url('https://img.freepik.com/photos-gratuite/flou-luxe-abstrait-degrade-couleur-gris-utilise-comme-mur-studio-arriere-plan-pour-afficher-vos-produits_1258-71462.jpg');
+    background-size: cover; 
+}
+
+.login-container { 
+    background-color: rgba(255, 255, 255, 0.9); 
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    width: 400px; 
+    text-align: center; 
+}
+
+.h2 { 
+    color: rgb(11, 142,54);  /* Title color */
+    background-color: rgb(255, 255, 255, 0.9); 
+    font-size: 24px; 
+}
+
+.error { 
+    color: red; 
+    font-size: 14px; 
+}
+
+.login-btn { 
+    background-color: rgb(11, 142, 4); /* Button background color */
+    color: white; 
+    border: none; 
+    padding: 10px; 
+    width: 100%; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    font-size: 16px; 
+}
+
+.login-btn:hover { 
+    background-color: rgb(9, 116, 3); /* Darker shade on hover */
+}
+
+.form-input { 
+    width: 90%; 
+    padding: 9px; 
+    font-size: 16px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+}
+
+.logo { 
+    margin-bottom: 20px; 
+}
+
+.signup-btn { 
+    background-color: #777; 
+    color: white; 
+    border: none; 
+    padding: 10px; 
+    width: 100%; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    font-size: 16px; 
+    margin-top: 15px; 
+}

@@ -1,0 +1,86 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        .navbar {
+            background-color: rgb(139, 198, 65);
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+        }
+
+        .navbar .logo img {
+            max-width: 150px;
+        }
+
+        .navbar .menu {
+            display: flex;
+            gap: 20px;
+        }
+
+        .navbar .menu a, .navbar .logout-btn {
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            background-color: rgb(139, 198, 65);
+            transition: background-color 0.3s;
+        }
+
+        .navbar .menu a:hover, .navbar .logout-btn:hover {
+            background-color: #45a049;
+        }
+
+        .navbar .welcome-message {
+            color: white;
+        }
+
+        .main-content {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .main-content h1 {
+            color: rgb(11, 142, 54);
+            font-size: 32px;
+        }
+
+        .sections {
+            margin-top: 30px;
+        }
+
+        .section {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .section h2 {
+            color: rgb(11, 142, 54);
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        .section a {
+            text-decoration: none;
+            background-color: rgb(11, 142, 4);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 4px;
+            margin-top: 10px;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+
+        .section a:hover {
+            background-color: #45a049;
+        }
