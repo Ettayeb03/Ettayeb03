@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-6F00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-00FF6F?style=for-the-badge"/>
 </p>
 
 ---
