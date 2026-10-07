@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-00FF6F?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -132,128 +133,190 @@ Web application developed for the management of an organization's IT infrastruct
 
 ---
 
-✅ Todo List
+## ✅ Todo List
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Ettayeb03/Todo_list)
 
 Task management web application developed with ASP.NET Core.
 
-Technologies:
+**Technologies:**
 
-C# ASP.NET Core MVC Entity Framework Core Bootstrap SQL Server
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `Bootstrap` `SQL Server`
 
-Features:
+**Features:**
 
-Task management
-Search and filtering
-Status management
-Calendar
-Statistics dashboard
-Responsive interface
-📚 Cahiers de Textes
+* Task management
+* Search and filtering
+* Status management
+* Calendar
+* Statistics dashboard
+* Responsive interface
 
-🔗 View Repository
+---
+
+## 📚 Cahiers de Textes
+
+🔗 [View Repository](https://github.com/Ettayeb03/Cahiers-de-textes)
 
 Web application for centralized management of school lesson records.
 
-Technologies:
+**Technologies:**
 
-PHP Laravel MySQL MVC
+`PHP` `Laravel` `MySQL` `MVC`
 
-🚗 Gestion Parking
+---
 
-🔗 View Repository
+## 🚗 Gestion Parking
+
+🔗 [View Repository](https://github.com/Ettayeb03/Gestion_Parking)
 
 Desktop application for parking management.
 
-Technologies:
+**Technologies:**
 
-Java Java Swing MySQL OOP
+`Java` `Java Swing` `MySQL` `OOP`
 
-Features:
+**Features:**
 
-👤 Subscriber management
-🚗 Vehicle management
-🅿️ Parking management
-📅 Reservations
-📊 Statistics
-🍽️ Menu d'un Restaurant
+* 👤 Subscriber management
+* 🚗 Vehicle management
+* 🅿️ Parking management
+* 📅 Reservations
+* 📊 Statistics
 
-🔗 View Repository
+---
+
+## 🍽️ Menu d'un Restaurant
+
+🔗 [View Repository](https://github.com/Ettayeb03/Menu-d-un-restaurant)
 
 Java Swing application simulating a restaurant ordering system.
 
-Features:
+**Features:**
 
-📋 Dynamic menu
-🛒 Shopping cart
-💰 Automatic total calculation
-✅ Order management
-🎨 Graphical interface
+* 📋 Dynamic menu
+* 🛒 Shopping cart
+* 💰 Automatic total calculation
+* ✅ Order management
+* 🎨 Graphical interface
 
-Technologies:
+**Technologies:**
 
-Java Java Swing OOP
+`Java` `Java Swing` `OOP`
 
-🛠️ Tech Stack
-🤖 AI & Data
+---
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> </p>
+# 🛠️ Tech Stack
 
-🧠 AI Applications
+### 🤖 AI & Data
 
-<p> <img src="https://img.shields.io/badge/DeepFace-000000?style=flat-square"/> <img src="https://img.shields.io/badge/PaddleOCR-00A67E?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-7B61FF?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat-square"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> </p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
-🌐 Backend & Web
+### 🧠 AI Applications
 
-<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> </p>
+<p>
+<img src="https://img.shields.io/badge/DeepFace-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/PaddleOCR-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+</p>
 
-🗄️ Databases
+### 🌐 Backend & Web
 
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat-square"/> </p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+</p>
 
-⚙️ Tools
+### 🗄️ Databases
 
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> </p>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4F00?style=flat-square"/>
+</p>
 
-📊 GitHub Statistics
+### ⚙️ Tools
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ettayeb03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ettayeb03&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
-🎓 Education
+---
 
-École Marocaine des Sciences de l'Ingénieur — EMSI Marrakech
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ettayeb03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ettayeb03&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🎓 Education
+
+**École Marocaine des Sciences de l'Ingénieur — EMSI Marrakech**
 
 🎓 Engineering Degree — Computer Engineering
-🔬 Specialization: Data & Artificial Intelligence
+🔬 Specialization: **Data & Artificial Intelligence**
 📅 2026–2027 — 5th Year
 
-📜 Certifications
-🟠 Oracle AI Database Foundations Associate — Oracle, 2026
-🔵 Agile Project Management — Google, 2026
-🟣 Introduction to Big Data — UC San Diego, 2026
-🟢 Introduction to Machine Learning — Duke University, 2025
-🔵 Introduction aux bases de données NoSQL — IBM, 2025
-☁️ Introduction au Cloud Computing — IBM, 2025
-🐍 Using Python to Access Web Data — University of Michigan, 2025
-🎯 Currently Looking For
+---
 
-I'm currently looking for a PFE opportunity in:
+# 📜 Certifications
 
-🤖 Artificial Intelligence
-📊 Data Science
-🧠 Machine Learning
-👁️ Computer Vision
-📝 NLP / Document Intelligence
+* 🟠 Oracle AI Database Foundations Associate — Oracle, 2026
+* 🔵 Agile Project Management — Google, 2026
+* 🟣 Introduction to Big Data — UC San Diego, 2026
+* 🟢 Introduction to Machine Learning — Duke University, 2025
+* 🔵 Introduction aux bases de données NoSQL — IBM, 2025
+* ☁️ Introduction au Cloud Computing — IBM, 2025
+* 🐍 Using Python to Access Web Data — University of Michigan, 2025
 
-I'm interested in working on real-world AI projects and developing production-oriented intelligent applications.
+---
 
-📫 Let's Connect
+# 🎯 Currently Looking For
 
-📧 Email: ettayebbenchekroune@gmail.com
+I'm currently looking for a **PFE opportunity** in:
 
-💼 LinkedIn: Ettayeb Benchekroune
+> 🤖 Artificial Intelligence
+> 📊 Data Science
+> 🧠 Machine Learning
+> 👁️ Computer Vision
+> 📝 NLP / Document Intelligence
 
-🐙 GitHub: Ettayeb03
+I'm interested in working on **real-world AI projects** and developing production-oriented intelligent applications.
 
-<p align="center"> <i>Building intelligent solutions with Data & AI 🤖</i> </p>
+---
+
+# 📫 Let's Connect
+
+📧 **Email:** [ettayebbenchekroune@gmail.com](mailto:ettayebbenchekroune@gmail.com)
+
+💼 **LinkedIn:** Ettayeb Benchekroune
+
+🐙 **GitHub:** [Ettayeb03](https://github.com/Ettayeb03)
+
+---
+
+<p align="center">
+  <i>Building intelligent solutions with Data & AI 🤖</i>
+</p>
