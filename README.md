@@ -1,191 +1,146 @@
 # 👋 Hi, I'm Ettayeb Benchekroune
 
-### 🎓 5th-Year Engineering Student — Data & Artificial Intelligence
-
-📍 Morocco
-🎓 École Marocaine des Sciences de l'Ingénieur (EMSI)
-💼 Looking for a **PFE / Internship in Data Science, Artificial Intelligence or Machine Learning**
-
----
-
-## 🚀 About Me
-
-I'm a **5th-year Computer Engineering student specialized in Data & Artificial Intelligence**, passionate about building intelligent systems and data-driven applications.
-
-My main interests include:
-
-* 🤖 Machine Learning & Deep Learning
-* 👁️ Computer Vision
-* 🧠 Natural Language Processing (NLP)
-* 📄 OCR & Intelligent Document Processing
-* 🔎 Semantic Search & RAG
-* 📊 Data Analytics
-* 🌐 AI-powered Web Applications
-
-I enjoy turning real-world problems into practical software solutions by combining **AI models, backend systems, databases and modern interfaces**.
-
----
-
-## 🛠️ Technical Skills
-
-### 🤖 Artificial Intelligence & Data
-
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `RAG` · `OCR` · `Data Analytics`
-
-### 🐍 Python & AI
-
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `YOLOv8` · `DeepFace` · `Pandas` · `NumPy`
-
-### 🌐 Backend & Databases
-
-`FastAPI` · `Flask` · `React` · `REST API` · `PostgreSQL` · `MySQL` · `SQL` · `Qdrant`
-
-### ⚙️ Tools & Development
-
-`Git` · `GitHub` · `Docker` · `Linux` · `Jupyter` · `UML` · `Scrum` · `Kanban`
-
----
-
-## 💼 Professional Experience
-
-### 🏢 BC Skills Group — PFA Internship
-
-**July – August 2026**
-
-**AI-Powered Intelligent Document Management Platform**
-
-* Developed a complete document management platform using **FastAPI, React and PostgreSQL**.
-* Integrated **document classification, OCR, semantic search and RAG chatbot**.
-* Trained a **ConvNeXt-Tiny / PyTorch** model for 4 document categories.
-* Achieved **72.29% classification accuracy**.
-* Integrated **PaddleOCR, BGE-M3, Qdrant, Ollama/Qwen2.5 and Docker**.
-
-### ⚓ Agence Nationale des Ports (ANP) — PFA Internship
-
-**July 2025**
-
-**IT Asset Management Web Application**
-
-* Developed a web application using **Flask, MySQL and Bootstrap**.
-* Implemented management of users, employees, equipment and maintenance.
-* Added **Excel import/export** functionality.
-* Developed an interactive dashboard for monitoring the IT infrastructure.
-
-### 🏢 SBS ZREST — Internship
-
-**September – October 2025**
-
-* Worked on employee schedule management.
-* Participated in customer billing monitoring.
-* Worked with internal tools and data maintenance.
-
----
-
-## 🔥 Featured Projects
-
-### 🦺 AI PPE Detection
-
-**Python · YOLOv8 · OpenCV · PyTorch · Computer Vision**
-
-An intelligent computer vision system designed to automatically detect Personal Protective Equipment (PPE) from images and video streams.
-
-**Key features:**
-
-* Real-time PPE detection
-* YOLOv8 fine-tuning
-* Helmet, head and safety vest detection
-* SAFE / NOT SAFE classification
-* Video stream processing with OpenCV
-
----
-
-### 👤 SMART FACE — Facial Recognition Attendance System
-
-**Python · DeepFace · OpenCV · PyQt5 · MySQL**
-
-An automated facial recognition system for employee attendance management.
-
-**Key features:**
-
-* Face detection and recognition
-* Employee identification using DeepFace
-* Attendance management
-* MySQL database integration
-* Desktop interface developed with PyQt5
-
----
-
-### 🚗 Parking Management System
-
-**Java Swing · MySQL · OOP**
-
-Desktop application for managing a parking system.
-
-**Features:**
-
-* Subscriber management
-* Vehicle management
-* Reservation management
-* Statistics generation
-
----
-
-### 📚 Web Application — Cahiers de Textes Management
-
-**Laravel · PHP · MySQL · MVC**
-
-Web application designed to centralize and manage school lesson records.
-
----
-
-### 🍽️ Restaurant Order Management
-
-**Java Swing · OOP**
-
-Desktop application simulating the customer ordering process.
-
-**Features:**
-
-* Dynamic menu
-* Shopping cart
-* Automatic total calculation
-* Event-driven interface
-
----
-
-## 📜 Certifications
-
-* 🟠 **Oracle AI Database Foundations Associate** — Oracle, 2026
-* 🔵 **Agile Project Management** — Google, 2026
-* 🟣 **Introduction to Big Data** — University of California San Diego, 2026
-* 🟢 **Introduction to Machine Learning** — Duke University, 2025
-* 🔵 **Introduction aux bases de données NoSQL** — IBM, 2025
-* ☁️ **Introduction au Cloud Computing** — IBM, 2025
-* 🐍 **Using Python to Access Web Data** — University of Michigan, 2025
-
----
-
-## 📊 GitHub Stats
+### 🎓 5th-Year Computer Engineering Student — Data & Artificial Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ettayeb03&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ettayeb03&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/Data%20%26%20AI-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 👨‍💻 About Me
 
-I'm currently looking for opportunities in:
+I'm a **5th-year Computer Engineering student specialized in Data & Artificial Intelligence at EMSI Marrakech**.
 
-**Data Science · Artificial Intelligence · Machine Learning · Computer Vision · NLP**
+I'm passionate about designing and developing **intelligent applications** combining Artificial Intelligence, data processing and software engineering.
 
-📧 **Email:** [ettayebbenchekroune@gmail.com](mailto:ettayebbenchekroune@gmail.com)
-💼 **LinkedIn:** Ettayeb Benchekroune
-🐙 **GitHub:** [Ettayeb03](https://github.com/Ettayeb03)
+My main areas of interest are:
+
+* 🤖 Artificial Intelligence
+* 📊 Data Science & Data Analytics
+* 🧠 Machine Learning & Deep Learning
+* 👁️ Computer Vision
+* 📝 NLP & Document Intelligence
+* 🔎 Semantic Search & RAG
+* 🌐 AI-powered Web Applications
+
+I'm currently looking for a **PFE opportunity in Data Science, Artificial Intelligence or Machine Learning**.
 
 ---
 
-### 💡 "Turning data into intelligent solutions."
+# 🚀 Featured Projects
 
-⭐ Feel free to explore my repositories and connect with me!
+## 📄 Gestion_documents_par_IA
+
+### Intelligent Document Management Platform
+
+🔗 [View Repository](https://github.com/Ettayeb03/Gestion_documents_par_IA)
+
+An AI-powered platform designed to automate document processing and intelligent information retrieval.
+
+### Key Features
+
+* 📄 Intelligent document classification
+* 🔍 OCR-based text extraction
+* 🧠 Semantic search
+* 💬 RAG-based chatbot
+* 📊 Document management and analysis
+* 🤖 Deep Learning model for document classification
+
+### Technologies
+
+`Python` `PyTorch` `ConvNeXt-Tiny` `PaddleOCR` `BGE-M3` `Qdrant` `Ollama` `Qwen2.5` `RAG` `Docker`
+
+**Model performance:** `72.29% accuracy` on 4 document categories.
+
+---
+
+## 🦺 PPE Detection — AI Safety System
+
+### Real-Time Personal Protective Equipment Detection
+
+🔗 [View Repository](https://github.com/Ettayeb03/ppe_detection)
+
+An AI-based computer vision system designed to monitor **Personal Protective Equipment (PPE)** on industrial and construction sites.
+
+The system analyzes images and video streams to detect workers and their safety equipment and classify them as **SAFE / NOT SAFE**.
+
+### Key Features
+
+* 👷 Worker detection
+* ⛑️ Helmet detection
+* 🦺 Safety vest detection
+* 📹 Real-time video processing
+* 🚨 Safety status classification
+* 🟢 SAFE / 🔴 NOT SAFE classification
+* 🤖 YOLO-based object detection
+
+### Technologies
+
+`Python` `YOLOv8` `OpenCV` `PyTorch` `Computer Vision` `Deep Learning`
+
+---
+
+## 👤 SmartFace
+
+### Facial Recognition Attendance System
+
+🔗 [View Repository](https://github.com/Ettayeb03/SmartFace)
+
+An intelligent facial recognition application designed to automate employee identification and attendance management.
+
+### Technologies
+
+`Python` `DeepFace` `OpenCV` `PyQt5` `MySQL` `TensorFlow`
+
+### Main Features
+
+* 👤 Facial recognition
+* 👥 Employee identification
+* ⏱️ Attendance management
+* 🗄️ MySQL database
+* 🖥️ Desktop graphical interface
+
+---
+
+# 💻 Other Projects
+
+## 🖥️ Gestion du parc informatique — ANP
+
+🔗 [View Repository](https://github.com/Ettayeb03/Gestion-du-parc-informatique---ANP)
+
+Web application developed for the management of an organization's IT infrastructure.
+
+**Technologies:**
+`Python` `Flask` `MySQL` `Bootstrap` `HTML` `CSS`
+
+**Features:**
+
+* 👥 Employee management
+* 💻 IT equipment management
+* 🏢 Service management
+* 🔄 Equipment assignments
+* 🛠️ Maintenance management
+* 📊 Interactive dashboard
+* 📥 Excel import
+* 📤 Excel export
+
+---
+
+## ✅ Todo List
+
+🔗 [View Repository](https://github.com/Ettayeb03/Todo_list)
+
+Task management web application developed with ASP.NET Core.
+
+**Technologies:**
+
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `Bootstrap` `SQL Server`
+
+**Features:**
+
+* Task management
