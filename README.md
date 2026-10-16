@@ -86,7 +86,30 @@ The system analyzes images and video streams to detect workers and their safety 
 `Python` `YOLOv8` `OpenCV` `PyTorch` `Computer Vision` `Deep Learning`
 
 ---
+## 📊 Sales Analytics Dashboard
 
+### Interactive Business Intelligence Dashboard for Sales & Cancelled Orders Analysis
+
+🔗 [View Repository](https://github.com/Ettayeb03/Sales-Analytics-Dashboard)
+
+An interactive **Power BI dashboard** designed to monitor sales performance and analyze cancelled orders, providing actionable insights for strategic decision-making.
+
+### Key Features
+
+* 💰 Sales tracking (Revenue, Orders, Average Order Value)
+* ❌ Cancelled orders analysis (Rate, Lost Revenue, Regional impact)
+* 📈 Monthly trends & seasonality detection
+* 🌍 Regional performance comparison (North, South, East, West)
+* 🛍️ Product category breakdown (Electronics vs Accessories)
+* 🔎 Interactive filters (Region, Order Status, Date Range)
+
+### Technologies
+
+`Power BI` `DAX` `Power Query` `Data Modeling` `Business Intelligence`
+
+**Key insight:** Identified a **25% global cancellation rate** representing **$182.83K in lost revenue**, with the South region showing the highest cancellation percentage (27%).
+
+---
 ## 👤 SmartFace
 
 ### Facial Recognition Attendance System
