@@ -110,6 +110,32 @@ An interactive **Power BI dashboard** designed to monitor sales performance and 
 **Key insight:** Identified a **25% global cancellation rate** representing **$182.83K in lost revenue**, with the South region showing the highest cancellation percentage (27%).
 
 ---
+## 🎓 Smart University Assistant
+
+### AI-Powered University Information Assistant
+
+🔗 [View Repository](https://github.com/Ettayeb03/Smart-University-Assistant)
+
+An intelligent university assistant designed to simplify access to academic information at **Cadi Ayyad University (UCA)**. The application combines conversational AI, semantic document retrieval, and a REST API to provide students with contextual answers to university-related questions.
+
+### Key Features
+
+* 🎓 University information retrieval
+* 💬 AI-powered conversational chatbot
+* 🧠 Retrieval-Augmented Generation (RAG)
+* 🔍 Semantic search across university documents
+* 📚 Document ingestion and vector indexing
+* 🔐 User authentication and role-based access control
+* 🛠️ Administrative interface for user management
+* ⚙️ Workflow automation integration with n8n
+
+### Technologies
+
+`Python` `FastAPI` `Streamlit` `PostgreSQL` `SQLAlchemy` `ChromaDB` `Ollama` `Qwen2.5` `RAG` `Embeddings` `n8n` `Git` `GitHub`
+
+**Objective:** Build an intelligent, locally deployable university assistant that improves access to academic information through natural-language interaction and context-aware AI responses.
+
+---
 ## 👤 SmartFace
 
 ### Facial Recognition Attendance System
